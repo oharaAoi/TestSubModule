@@ -1,0 +1,3 @@
+[submodule "AOENGINE"]
+	path = AOENGINE
+	url = https://github.com/oharaAoi/AOENGINE.git
